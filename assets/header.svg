@@ -1,0 +1,101 @@
+<svg fill="none" viewBox="0 0 850 240" width="100%" height="240" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          position: relative;
+          width: 100%;
+          height: 240px;
+          background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%);
+          border-radius: 16px;
+          border: 1px solid rgba(88, 166, 255, 0.2);
+          box-sizing: border-box;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          overflow: hidden;
+          box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+        }
+
+        .glow {
+          position: absolute;
+          width: 300px;
+          height: 300px;
+          background: radial-gradient(circle, rgba(88, 166, 255, 0.15) 0%, rgba(188, 140, 255, 0.05) 50%, transparent 70%);
+          top: -50px;
+          left: 50%;
+          transform: translateX(-50%);
+          border-radius: 50%;
+          pointer-events: none;
+        }
+
+        .wave-bg {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          height: 60px;
+          opacity: 0.25;
+          pointer-events: none;
+        }
+
+        .title {
+          font-size: 38px;
+          font-weight: 800;
+          background: linear-gradient(90deg, #ffffff 0%, #79c0ff 50%, #d2a8ff 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin: 0 0 10px 0;
+          text-align: center;
+          letter-spacing: -0.5px;
+        }
+
+        .subtitle {
+          font-size: 19px;
+          font-weight: 500;
+          color: #8b949e;
+          margin: 0 0 14px 0;
+          text-align: center;
+        }
+
+        .highlight {
+          color: #58a6ff;
+          font-weight: 600;
+        }
+
+        .tags {
+          display: flex;
+          gap: 10px;
+          flex-wrap: wrap;
+          justify-content: center;
+        }
+
+        .tag {
+          font-size: 12px;
+          font-weight: 600;
+          padding: 4px 12px;
+          background: rgba(88, 166, 255, 0.1);
+          border: 1px solid rgba(88, 166, 255, 0.3);
+          border-radius: 20px;
+          color: #58a6ff;
+        }
+      </style>
+      <div class="container">
+        <div class="glow"></div>
+        <svg class="wave-bg" viewBox="0 0 850 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 30 Q 212.5 0 425 30 T 850 30 L 850 60 L 0 60 Z" fill="#58a6ff" />
+        </svg>
+        <h1 class="title">¡Hola, soy Alessander! 👋</h1>
+        <p class="subtitle">Desarrollador <span class="highlight">Full Stack</span> • Soluciones Web &amp; Móviles Escalables</p>
+        <div class="tags">
+          <span class="tag">⚡ TypeScript &amp; Python</span>
+          <span class="tag">📱 Kotlin Android</span>
+          <span class="tag">🌐 React &amp; Next.js</span>
+          <span class="tag">🤖 Automatización &amp; APIs</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
