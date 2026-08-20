@@ -44,24 +44,15 @@
 
 ### 💫 Sobre Mí
 
-```bash
-alessander@developer:~$ whoami
-> Software Developer con pasión por construir soluciones prácticas, sistemas eficientes y experiencias visuales fluidas.
+> **👋 ¡Hola! Soy Luis Alexander**, desarrollador **Full Stack & Mobile** enfocado en crear soluciones prácticas, sistemas escalables y experiencias digitales fluidas y de alto rendimiento.
 
-alessander@developer:~$ cat config.json
-{
-  "nombre": "Luis Alexander",
-  "rol": "Full Stack & Mobile Developer",
-  "pais": "Perú 🇵🇪",
-  "pasiones": ["Desarrollo Web", "Aplicaciones Móviles", "Arquitectura de Software", "Automatización / Bots"],
-  "meta_actual": "Crear productos de alto valor que resuelvan problemas reales de usuarios y negocios"
-}
-```
+<br/>
 
-- 🚀 **Especialidad:** Desarrollo Full Stack de extremo a extremo, desde interfaces reactivas hasta lógica de backend e integración de bases de datos.
-- 📱 **Mobile & Apps:** Creación de aplicaciones con Kotlin (Android nativo) y soluciones web responsivas multiplataforma.
-- ⚙️ **Automatización:** Integración de APIs, bots para Telegram y herramientas inteligentes de procesamiento de datos y OCR.
-- 🎯 **Enfoque de trabajo:** Código limpio, arquitecturas escalables, diseño centrado en el usuario y aprendizaje constante.
+- 📍 **Ubicación:** Perú 🇵🇪
+- 🚀 **Especialidad:** Desarrollo Full Stack de extremo a extremo (Frontend reactivo, Backend robusto, APIs y Bases de Datos).
+- 📱 **Mobile & Apps:** Desarrollo de aplicaciones nativas en **Kotlin (Android)** y plataformas web responsivas.
+- 🤖 **Automatización:** Integración de APIs, bots interactivos para Telegram y procesamiento de datos.
+- 🎯 **Filosofía:** *"Transformar ideas complejas en código limpio, mantenible y soluciones de alto impacto."*
 
 ---
 
