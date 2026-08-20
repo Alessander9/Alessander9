@@ -156,16 +156,10 @@ alessander@developer:~$ cat config.json
 <div align="center">
 
   <!-- STATS & TOP LANGS -->
-  <table border="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Alessander9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessander9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Alessander9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Stats de Alessander" height="175" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alessander9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes más usados" height="175" />
+  </p>
 
   <!-- STREAK STATS -->
   <p align="center">
