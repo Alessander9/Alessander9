@@ -1,28 +1,38 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24,30&height=220&section=header&text=Hola,%20soy%20Alessander%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20&%20Mobile%20Enthusiast&descFontSize=20&descAlignY=60&descAlign=50" alt="Alessander's Header" width="100%" />
+  <!-- TOP BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:bc8cff&height=260&section=header&text=¡Hola,%20soy%20Alessander!%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Developer%20%E2%80%A2%20Mobile%20%26%20Web%20Builder&descFontSize=21&descAlignY=58&descAlign=50" alt="Header Banner" width="100%" />
 
-  <!-- Animated Typing Text -->
+  <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/Alessander9">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=🚀+Desarrollador+Full+Stack;💻+TypeScript+%7C+JavaScript+%7C+Python+%7C+Kotlin;📱+Desarrollo+Web+%26+Mobile+Solutions;⚡+Creando+soluciones+eficientes+y+escalables" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Desarrollador+Full+Stack+Creativo;💻+TypeScript+%7C+Python+%7C+Kotlin+%7C+Java;🌐+Construyendo+Webs+Modernas+y+Escalables;🤖+Automatizaciones,+Bots+y+Soluciones+a+Medida;📱+Desarrollo+de+Apps+Móviles+Nativas+y+Web" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Contact Badges -->
+  <!-- PROFILE COUNTER & STATUS BADGES -->
   <p align="center">
-    <a href="https://github.com/Alessander9">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    <img src="https://komarev.com/ghpvc/?username=Alessander9&label=Perfil%20Visto&color=58a6ff&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Disponibilidad-Para%20Proyectos-brightgreen?style=flat-square" alt="Disponibilidad" />
+    <img src="https://img.shields.io/badge/Ubicación-Perú%20🇵🇪-blue?style=flat-square" alt="Perú" />
+  </p>
+
+  <!-- QUICK SOCIAL CONTACT BUTTONS -->
+  <p align="center">
+    <a href="https://github.com/Alessander9" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:tu-correo@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
+    &nbsp;
     <a href="https://t.me/" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </p>
 
@@ -30,77 +40,94 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+### 💫 Sobre Mí
 
-```yaml
-nombre: Alessander
-rol: Full Stack Developer & Software Builder
-ubicación: Perú 🇵🇪
-enfoque_actual: Aplicaciones Web Modernas, Arquitectura Backend & Apps Móviles
-intereses: Automatización, APIs RESTful, UI/UX Limpio y Buenas Prácticas
-filosofía: "Transformar ideas complejas en código limpio y soluciones de alto impacto."
+```bash
+alessander@developer:~$ whoami
+> Software Developer con pasión por construir soluciones prácticas, sistemas eficientes y experiencias visuales fluidas.
+
+alessander@developer:~$ cat config.json
+{
+  "nombre": "Alessander",
+  "rol": "Full Stack & Mobile Developer",
+  "pais": "Perú 🇵🇪",
+  "pasiones": ["Desarrollo Web", "Aplicaciones Móviles", "Arquitectura de Software", "Automatización / Bots"],
+  "meta_actual": "Crear productos de alto valor que resuelvan problemas reales de usuarios y negocios"
+}
 ```
 
-- 🔭 **Actualmente trabajando en:** Plataformas web interactivas, sistemas de gestión y herramientas de automatización.
-- 🌱 **Continuo aprendizaje en:** Arquitecturas escalables, Cloud Services y tecnologías móviles avanzadas.
-- 💡 **Pasión por:** Diseñar interfaces intuitivas, optimizar procesos con bots y construir código mantenible.
-- 💬 **Hablemos de:** TypeScript, Python, desarrollo full stack, bots o cualquier proyecto innovador.
+<div align="left">
+
+- 🚀 **Especialidad:** Desarrollo Full Stack de extremo a extremo, desde interfaces reactivas de alta gama hasta lógica de backend e integración de bases de datos.
+- 📱 **Mobile & Apps:** Creación de aplicaciones con Kotlin (Android nativo) y soluciones web responsivas multiplataforma.
+- ⚙️ **Automatización:** Integración de APIs, bots para Telegram y herramientas inteligentes de procesamiento de datos y OCR.
+- 🎯 **Enfoque de trabajo:** Código limpio, arquitecturas escalables, diseño centrado en el usuario y aprendizaje constante de nuevas tecnologías.
+
+</div>
 
 ---
 
-### 🛠️ Tecnologías & Herramientas
+### 🏆 Trofeos de GitHub
+
+<div align="center">
+  <a href="https://github.com/Alessander9">
+    <img src="https://github-profile-trophy.vercel.app/?username=Alessander9&theme=tokyonight&no-bg=true&no-frame=false&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" width="98%" />
+  </a>
+</div>
+
+---
+
+### 💻 Stack Tecnológico & Herramientas
 
 <div align="center">
 
+  <p><strong>🔥 Tecnologías principales con las que trabajo a diario:</strong></p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,java,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,postgres,mysql,mongodb,firebase,androidstudio,git,github,vscode,postman,docker&perline=12&theme=dark" alt="Skill Icons" />
+  </a>
+
+  <br/><br/>
+
   <table>
-    <tr>
-      <td align="center" width="20%"><strong>Lenguajes</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Frontend & UI</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Backend & APIs</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Bases de Datos</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>Mobile & Herramientas</strong></td>
-      <td align="left">
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-      </td>
-    </tr>
+    <thead>
+      <tr>
+        <th align="center">Área</th>
+        <th align="left">Ecosistema & Herramientas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><strong>💻 Lenguajes</strong></td>
+        <td>
+          <code>TypeScript</code> <code>JavaScript (ES6+)</code> <code>Python</code> <code>Kotlin</code> <code>Java</code> <code>HTML5</code> <code>CSS3</code>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🎨 Frontend & UI</strong></td>
+        <td>
+          <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>Bootstrap</code> <code>Responsive Design</code> <code>UI/UX</code>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>⚙️ Backend & APIs</strong></td>
+        <td>
+          <code>Node.js</code> <code>Express.js</code> <code>RESTful APIs</code> <code>FastAPI / Flask</code> <code>Telegram Bot API</code>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🗄️ Bases de Datos</strong></td>
+        <td>
+          <code>PostgreSQL</code> <code>MySQL</code> <code>MongoDB</code> <code>Firebase / Firestore</code>
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🛠️ DevOps & Entorno</strong></td>
+        <td>
+          <code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Android Studio</code> <code>Postman</code> <code>Docker</code>
+        </td>
+      </tr>
+    </tbody>
   </table>
 
 </div>
@@ -111,63 +138,74 @@ filosofía: "Transformar ideas complejas en código limpio y soluciones de alto 
 
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías | Enlace |
+| Proyecto | Descripción | Tecnologías | Código |
 | :--- | :--- | :---: | :---: |
-| 📅 **citasAPP** | Aplicación completa y optimizada para agendamiento y gestión de citas. | `TypeScript` `Web` | [Ver Repositorio](https://github.com/Alessander9/citasAPP) |
-| 🤖 **SistemaCitasTelegram** | Bot interactivo de Telegram para reservas automatizadas y atención a usuarios. | `TypeScript` `Telegram API` | [Ver Repositorio](https://github.com/Alessander9/SistemaCitasTelegram) |
-| 🔍 **ocr_yape_plin** | Procesador inteligente de comprobantes de pago (Yape / Plin) usando OCR en Python. | `Python` `OCR` | [Ver Repositorio](https://github.com/Alessander9/ocr_yape_plin) |
-| 🐾 **SisVet** | Sistema integral para administración de clínicas veterinarias y pacientes. | `TypeScript` `Frontend` | [Ver Repositorio](https://github.com/Alessander9/SisVetx) |
-| 🛒 **MultiMarket** | Plataforma de comercio electrónico con arquitectura backend robusta. | `Java` `TypeScript` | [Ver Repositorio](https://github.com/Alessander9/MultiMarket) |
-| 📱 **ProyectoFinalApp** | Aplicación nativa móvil con enfoque en experiencia de usuario y rendimiento. | `Kotlin` `Android` | [Ver Repositorio](https://github.com/Alessander9/ProyectoFinalApp) |
+| 📅 **citasAPP** | Sistema completo e intuitivo para agendamiento, gestión de horarios y reservas. | `TypeScript` `React` `Node.js` | [💻 Ver Repo](https://github.com/Alessander9/citasAPP) |
+| 🤖 **SistemaCitasTelegram** | Bot automatizado para recepción de citas, interacción con clientes y respuestas automáticas. | `TypeScript` `Telegram API` | [💻 Ver Repo](https://github.com/Alessander9/SistemaCitasTelegram) |
+| 🧾 **ocr_yape_plin** | Lector inteligente de comprobantes digitales (Yape / Plin) con extracción de datos mediante OCR. | `Python` `OpenCV / OCR` | [💻 Ver Repo](https://github.com/Alessander9/ocr_yape_plin) |
+| 🐾 **SisVet** | Plataforma de administración para clínicas veterinarias, control de citas, historial y pacientes. | `TypeScript` `Web` | [💻 Ver Repo](https://github.com/Alessander9/SisVetx) |
+| 🛍️ **MultiMarket** | E-commerce con catálogo interactivo, carrito de compras y arquitectura backend robusta. | `Java` `TypeScript` | [💻 Ver Repo](https://github.com/Alessander9/MultiMarket) |
+| 📱 **ProyectoFinalApp** | Aplicación móvil nativa en Kotlin con interfaz moderna y optimización de rendimiento. | `Kotlin` `Android Studio` | [💻 Ver Repo](https://github.com/Alessander9/ProyectoFinalApp) |
 
 </div>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Métricas & Estadísticas de Desarrollo
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Languages Cards -->
+  <!-- STATS & TOP LANGS -->
+  <table border="0">
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Alessander9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessander9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- STREAK STATS -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alessander9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" alt="GitHub Stats de Alessander" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessander9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes más usados" height="175" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alessander9&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9E64&currStreakLabel=58A6FF&stroke=58A6FF" alt="GitHub Streak Stats" width="95%" />
   </p>
 
-  <!-- Streak Stats Card -->
+  <!-- ACTIVITY GRAPH -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alessander9&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF9E64&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  </p>
-
-  <!-- Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alessander9&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alessander9&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FFFFFF&hide_border=true&area=true" alt="Activity Graph" width="95%" />
   </p>
 
 </div>
 
 ---
 
-### 🤝 Conectemos
+### 💬 ¿Hablamos de un proyecto?
 
 <div align="center">
 
-  <p>¿Tienes una propuesta, idea de proyecto o simplemente quieres charlar de tecnología?</p>
+  <p>Siempre estoy abierto a nuevas oportunidades, colaboraciones en código abierto y proyectos desafiantes.</p>
 
-  <a href="https://github.com/Alessander9">
-    <img src="https://img.shields.io/badge/GitHub-Alessander9-181717?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://github.com/Alessander9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alessander-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:tu-correo@example.com">
-    <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24,30&height=100&section=footer" width="100%"/>
+  <!-- FOOTER WAVE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:bc8cff&height=120&section=footer" width="100%"/>
 
 </div>
