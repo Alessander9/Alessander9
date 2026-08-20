@@ -50,7 +50,7 @@ alessander@developer:~$ whoami
 
 alessander@developer:~$ cat config.json
 {
-  "nombre": "Alessander",
+  "nombre": "Luis Alexander",
   "rol": "Full Stack & Mobile Developer",
   "pais": "Perú 🇵🇪",
   "pasiones": ["Desarrollo Web", "Aplicaciones Móviles", "Arquitectura de Software", "Automatización / Bots"],

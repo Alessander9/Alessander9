@@ -87,7 +87,7 @@
         <svg class="wave-bg" viewBox="0 0 850 60" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M0 30 Q 212.5 0 425 30 T 850 30 L 850 60 L 0 60 Z" fill="#58a6ff" />
         </svg>
-        <h1 class="title">¡Hola, soy Alessander! 👋</h1>
+        <h1 class="title">¡Hola, soy Luis Alexander! 👋</h1>
         <p class="subtitle">Desarrollador <span class="highlight">Full Stack</span> • Soluciones Web &amp; Móviles Escalables</p>
         <div class="tags">
           <span class="tag">⚡ TypeScript &amp; Python</span>
